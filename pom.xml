@@ -30,11 +30,6 @@
 		<name>Ashok IT Snapshots Nexus Repo</name>
 		<url>http://54.91.14.114:8081/repository/ashokit_snapshot_repo/</url>
 	</snapshotRepository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ip-172-31-19-169.ec2.internal-snapshots</name>
-        <url>http://54.160.148.32:8082/artifactory/libs-snapshot</url>
-    </snapshotRepository>
 </distributionManagement>
   <build>
     <finalName>01-maven-web-app</finalName>
